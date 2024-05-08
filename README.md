@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aritra Ray</h1>
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></img> I'm Aritra Ray</h1>
 <h4 align="center">I am a Pre-Final year undergraduate from IIT Kharagpur. </h4>
 <h4 align="center">Interested (and hence Reads) about technology, mathematics, politics, mythology etc...</h4>
 <h4 align="center">I sometimes write on blog.proffapt.me.</h4>
