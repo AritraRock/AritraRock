@@ -1,8 +1,8 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aritra Ray</h1>
-<h3 align="center">I am a Pre-Final year undergraduate from IIT Kharagpur. </h3>
-<h3 align="center">Interested (and hence Reads) about technology, mathematics, politics, mythology etc...</h3>
-<h3 align="center">I sometimes write on blog.proffapt.me.</h3>
+<h4 align="center">I am a Pre-Final year undergraduate from IIT Kharagpur. </h4>
+<h4 align="center">Interested (and hence Reads) about technology, mathematics, politics, mythology etc...</h4>
+<h4 align="center">I sometimes write on blog.proffapt.me.</h4>
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrarock&label=Profile%20views&color=0e75b6&style=flat" alt="aritrarock" /> </p>
 
