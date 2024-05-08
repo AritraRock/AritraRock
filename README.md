@@ -1,8 +1,10 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://rishavchanda.io)
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></img> I'm Aritra Ray</h1>
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"></img> I'm Aritra Ray</h1>
 <h4 align="center">I am a Pre-Final year undergraduate from IIT Kharagpur. </h4>
 <h4 align="center">Interested (and hence Reads) about technology, mathematics, politics, mythology etc...</h4>
-<h4 align="center">I sometimes write on blog.proffapt.me.</h4>
+<div align="center" dir="auto">
+⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/document/d/1DWo5RjJoMx6WDZzyOnOEzSi5XJWE44xAFld7R2GLV2Y/edit#heading=h.gjdgxs" type="application/pdf" rel="nofollow"><b>READ MY RESUME</b> <img width="22px" src="https://camo.githubusercontent.com/155fe83758a09b645acdf9437322b58bf197a74693e321dd954e5468ee3afb9a/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3334342f726573756d652e706e67" data-canonical-src="https://img.icons8.com/bubbles/344/resume.png" style="max-width: 100%;"></a>
+</div>
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrarock&label=Profile%20views&color=0e75b6&style=flat" alt="aritrarock" /> </p>
 
