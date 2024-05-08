@@ -1,22 +1,20 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aritra Ray</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">I am a Pre-Final year undergraduate from IIT Kharagpur. </h3>
+<h3 align="center">Interested (and hence Reads) about technology, mathematics, politics, mythology etc...</h3>
+<h3 align="center">I sometimes write on blog.proffapt.me.</h3>
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrarock&label=Profile%20views&color=0e75b6&style=flat" alt="aritrarock" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrarock" alt="aritrarock" /></a> </p>
-
-- 🔭 I’m currently working on [IQ Shop](https://github.com/AritraRock/IQ-shop)
-
 - 🌱 I’m currently learning **React.js, Django**
 
-- 📫 How to reach me **aritrabts@gmail.com**
+- 📫 To discuss anything, email me 👉 **aritrabts@gmail.com** 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1DWo5RjJoMx6WDZzyOnOEzSi5XJWE44xAFld7R2GLV2Y/edit?usp=sharing](https://docs.google.com/document/d/1DWo5RjJoMx6WDZzyOnOEzSi5XJWE44xAFld7R2GLV2Y/edit?usp=sharing)
 
-- ⚡ Fun fact **In the era of Coffee, I am a tea-lover**
+- ⚡ Fun fact **In the era of Coffee, I am a tea-lover** 🫣
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check my other profiles</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aritra-ray-bb2b03223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aritra-ray-bb2b03223/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/aritrarockz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aritrarockz" height="30" width="40" /></a>
