@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"></img> I'm Aritra Ray</h1>
-<h4 align="center">A Pre-Final year undergraduate from IIT Kharagpur.</h4>
+<h4 align="center">A 2025 undergraduate from IIT Kharagpur and a working professional at Deloitte</h4>
 <h4 align="center">Interested in technology, mathematics, politics, mythology etc...</h4>
 <div align="center" dir="auto">
 ⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/document/d/1DWo5RjJoMx6WDZzyOnOEzSi5XJWE44xAFld7R2GLV2Y/edit#heading=h.gjdgxs" type="application/pdf" rel="nofollow"><b>READ MY RESUME</b> <img width="22px" src="https://camo.githubusercontent.com/155fe83758a09b645acdf9437322b58bf197a74693e321dd954e5468ee3afb9a/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3334342f726573756d652e706e67" data-canonical-src="https://img.icons8.com/bubbles/344/resume.png" style="max-width: 100%;"></a>
